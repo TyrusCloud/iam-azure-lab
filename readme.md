@@ -1,4 +1,4 @@
-# Azure IAM Lab – Part 1  
+# Azure IAM Lab  
 Terraform + Azure + Active Directory Domain Controller
 
 ## Project Overview
